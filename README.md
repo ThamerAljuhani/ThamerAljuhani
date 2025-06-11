@@ -77,4 +77,4 @@ const techStack = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThamerAljuhani&color=brightgreen&style=flat)
 
-![snake gif](https://github.com/ThamerAljuhani/ThamerAljuhani/blob/output/github-snake.svg)
+![snake gif](https://github.com/ThamerAljuhani/ThamerAljuhani/blob/output/github-contribution-grid-snake-dark.svg)
