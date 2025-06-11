@@ -13,13 +13,39 @@
 ### Tech Stack
 
 ```javascript
-const skills = {
-  backend: ["PHP", "Laravel", "RESTful APIs"],
-  frontend: ["JavaScript", "HTML5", "CSS3", "Bootstrap"],
-  devOps: ["Jenkins", "Docker", "Git"],
-  databases: ["MySQL", "MariaDB", "PostgreSQL"],
-  tools: ["VS Code", "Postman", "PHPUnit"],
-  architecture: ["MVC", "SOLID", "Design Patterns"],
+const techStack = {
+    🔧 languages: [
+        "PHP", "JavaScript",
+        "HTML5", "CSS3", "SQL"
+    ],
+    ⚡ frameworks: [
+        "Laravel", "Bootstrap"
+    ],
+    💾 database: [
+        "MySQL",
+        "MariaDB"
+    ],
+    🚀 devOps: [
+        "Docker", "Jenkins",
+        "Git", "VPS"
+    ],
+    🧪 testing: [
+        "PHPUnit", "Jest",
+        "Laravel Dusk"
+    ],
+    🛠️ tools: [
+        "VS Code", "Postman",
+    ],
+    📐 patterns: [
+        "MVC", "SOLID", "Repository",
+        "Factory", "Observer"
+    ],
+    🔌 apis: [
+        "REST"
+    ],
+    📋 methodologies: [
+        "Agile", "CI/CD", "TDD"
+    ]
 };
 ```
 
@@ -30,5 +56,13 @@ const skills = {
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamerAljuhani&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamerAljuhani&layout=compact&theme=dark)
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamerAljuhani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamerAljuhani&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThamerAljuhani&theme=dark" alt="GitHub streak stats"/>
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThamerAljuhani&color=brightgreen&style=flat)
