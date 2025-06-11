@@ -2,7 +2,7 @@
 
 🚀 Full Stack Web Developer specializing in PHP applications
 
-### About Me
+## About Me
 
 - 🔭 Crafting robust web solutions with PHP & Laravel
 - 🌱 Continuously improving CI/CD practices
@@ -16,6 +16,8 @@
   <img align="center" alt="Skill-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Skill-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Skill-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img align="center" alt="Skill-DOCKER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">&nbsp;&nbsp;
+  <img align="center" alt="Skill-Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Skill-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Skill-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
@@ -59,12 +61,15 @@ const techStack = {
 };
 ``` -->
 
-### Connect With Me
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamer-aljohani)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ThamerAljuhani)
+<div> 
+  <a href="https://www.linkedin.com/in/thamer-aljohani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+  <a href = "mailto: inbox@thameraljohani.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamerAljuhani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
