@@ -10,7 +10,17 @@
 - 🛠️ Experience with automated deployment pipelines
 - 📚 Passionate about web development best practices
 
-### Tech Stack
+## Skills
+
+<p align="center">
+  <img align="center" alt="Skill-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Skill-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Skill-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img align="center" alt="Skill-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Skill-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+
+<!-- ### Tech Stack
 
 ```javascript
 const techStack = {
@@ -47,7 +57,7 @@ const techStack = {
         "Agile", "CI/CD", "TDD"
     ]
 };
-```
+``` -->
 
 ### Connect With Me
 
