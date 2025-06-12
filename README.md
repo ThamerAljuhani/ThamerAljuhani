@@ -73,13 +73,10 @@ const techStack = {
 ## <span style="color: gold;"> GitHub Stats
 
 </span>
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamerAljuhani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamerAljuhani&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThamerAljuhani&theme=dark" alt="GitHub streak stats"/>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+    <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=ThamerAljuhani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamerAljuhani&layout=compact&langs_count=8&theme=dark"/>
+    <img height="150em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThamerAljuhani&theme=dark" alt="GitHub streak stats"/>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThamerAljuhani&color=brightgreen&style=flat)
